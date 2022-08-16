@@ -14,7 +14,7 @@ export default function BackGround() {
         height: "100vh",
       }}
     >
-      <Image src={"/bg6.jpg"} layout={"fill"} />
+      <Image src={"/bg7.jpg"} layout={"fill"} />
     </Box>
   );
 }
